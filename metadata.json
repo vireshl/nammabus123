@@ -1,0 +1,7 @@
+{
+  "name": "NammaBus",
+  "description": "NammaBus is an application to help navigate the Bengaluru bus transport system (BMTC) with features like a journey planner, live bus tracking, fare calculation, and more, powered by Gemini with Google Maps grounding for up-to-date information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
